@@ -1,0 +1,27 @@
+{
+  "name": "html-css-template-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitosalo/html-css-template-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitosalo/html-css-template-project/issues"
+  },
+  "homepage": "https://github.com/nikitosalo/html-css-template-project#readme",
+  "devDependencies": {
+    "prettier": "^3.8.1",
+    "stylelint": "^17.1.0",
+    "stylelint-config-clean-order": "^8.0.0",
+    "stylelint-config-standard": "^40.0.0",
+    "stylelint-order": "^7.0.1",
+    "stylelint-prettier": "^5.0.3"
+  }
+}
